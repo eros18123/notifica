@@ -1,0 +1,13 @@
+{
+  "package": "anki_star_notification",
+  "name": "Star Notification for Anki",
+  "mod": 20250411,
+  "min_point_version": 0,
+  "max_point_version": 49,
+  "branch_index": 0,
+  "disabled": false,
+  "conflicts": [],
+  "description": "Shows a notification with messages and images reminding you to study when you have due cards. Adds a star icon with the number of due cards to the Anki window title and system tray.",
+  "version": "1.0.0",
+  "homepage": ""
+}
